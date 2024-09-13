@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Rahul Vats"
 PAGE_ICON = ":wave:"
 NAME = "Rahul Vats"
 DESCRIPTION = """
-Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
+Senior Cloud & Data Analyst, assisting enterprises with cloud & on-premise data-driven decision-making application solutions.
 """
 EMAIL = "rahul.rkumar23@gmail.com"
 SOCIAL_MEDIA = {
@@ -101,7 +101,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "*Senior Data Analyst | RateGain Technologies*")
+st.write("🚧", "Cloud Engineer | RateGain Technologies*")
 st.write("02/2018 - Present")
 st.write(
     """
