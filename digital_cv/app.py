@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Rahul Vats"
 PAGE_ICON = ":wave:"
 NAME = "Rahul Vats"
 DESCRIPTION = """
-Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
+Senior Cloud Engineer and Database Consultant, assisting enterprises by supporting Cloud based data-driven decision-making.
 """
 EMAIL = "rahul.rkumar23@gmail.com"
 SOCIAL_MEDIA = {
